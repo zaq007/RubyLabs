@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time_in: 2018-04-18 21:04:39
+  time_out: 2018-04-18 21:04:39
+  plane: one
+  airport_from: 
+  {: MyString
+  to_table: MyString
+  : 
+  }}: MyString
+  airport_to: 
+  {: MyString
+  to_table: MyString
+  : 
+  }}: MyString
+
+two:
+  time_in: 2018-04-18 21:04:39
+  time_out: 2018-04-18 21:04:39
+  plane: two
+  airport_from: 
+  {: MyString
+  to_table: MyString
+  : 
+  }}: MyString
+  airport_to: 
+  {: MyString
+  to_table: MyString
+  : 
+  }}: MyString
